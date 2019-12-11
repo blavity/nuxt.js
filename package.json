@@ -1,9 +1,10 @@
 {
   "name": "nuxt.js",
+  "version":"2.8.1.blv.aplpha"
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuxt/nuxt.js.git"
+    "url": "git+https://github.com/blavity/nuxt.js.git"
   },
   "workspaces": [
     "packages/*",
